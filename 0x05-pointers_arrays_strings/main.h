@@ -11,5 +11,9 @@ void puts_half(char *str);
 void print_array(int *a, int n);
 char *_strcpy(char *dest, char *src);
 int _atoi(char *s);
+<<<<<<< HEAD
 _putchar(str[i]);
+=======
+int _putchar(char c)
+>>>>>>> 3724c5558ae70d912098d6758b0b564c1c13ec00
 #endif
